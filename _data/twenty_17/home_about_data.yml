@@ -6,26 +6,26 @@
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
+  name: 会议日程
+  info: 查看具体会议日程
   link: /agenda
 
 - inverted: 
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
+  name: 团队
+  info: 团队介绍
   link: /team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
+  name: 会场
+  info: 查看会场详情
   link: /venue
 
 - inverted: 
   img: icon-faq.jpeg
   name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
+  info: 如有更多疑问...
   link: /faqs
 
 - inverted: timeline-inverted

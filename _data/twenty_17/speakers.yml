@@ -1,17 +1,17 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: 李熠瑄
+  name: 李熠瑄
+  subtitle: 打杂官
+  img: yixuan.png
+  thumbnail: dujun.jpg
+  alt: Picture of Yixuan
+  topic: 论PPT是如何毁灭世界的
+  description: 钱多 人傻
 
-- title: Name
-  name: Name-2
+- title: 杜钧
+  name: 杜钧
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: dujun.jpg
+  thumbnail: dujun.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -20,7 +20,34 @@
   name: Name-3
   subtitle: Position
   img: TBD.jpg
-  thumbnail: TBD.jpg
+  thumbnail: dujun.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: dujun.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: dujun.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: dujun.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info

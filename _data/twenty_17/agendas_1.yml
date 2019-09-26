@@ -1,5 +1,9 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:30 AM - 12:00 PM
+  info: "<br><u>DEFI全体峰会</u><br><br><b>主会场</b><br><br>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 13:30 PM - 17:30 PM
+  info: "<br><u>Digital Asset Forum(闭门)</u><br><u>Staking Forum</u><br><br><b>分论坛</b><br><br>"
+
+- time: 19:00 PM - 22:00 PM
+  info: "<br><u>区块链之夜<b><br>系列列酒会</b></u><br><br>"
+
