@@ -11,7 +11,7 @@
   link: /agenda
 
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-venue.jpeg
   name: 会场介绍
   info: 查看会场详情

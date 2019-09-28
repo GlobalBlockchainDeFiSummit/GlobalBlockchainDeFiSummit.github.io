@@ -12,7 +12,7 @@ facebook:
 logo: "../css/2016_style/img/icon-large.png"
 
 social:
-  name: Your official website
+  name: 币世界
   link: "https://www.bishijie.com/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
@@ -25,13 +25,12 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # - title: facebook
-  #   url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
-  - title: linkedin
+  title: twitter
+    url: https://twitter.com/Yixuan5402
+  title: linkedin
     url: https://www.linkedin.com/in/liyixuan5402
-
+  title: address-book
+    url: liyixuan5402
 # Build settings
 markdown: kramdown
 permalink: pretty
