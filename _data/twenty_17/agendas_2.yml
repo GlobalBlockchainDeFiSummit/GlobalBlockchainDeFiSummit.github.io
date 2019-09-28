@@ -1,5 +1,31 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:30 AM - 9:40 AM
+  type: "///"
+  info: "<br>主持人<br><b>主持人开场</b><br><br>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:40 AM - 10:00 AM
+  type: "///"
+  info: "<br>主办方致辞<br><b>破译区块链的财富密码</b><br><br>"
+
+- time: 10:00 AM - 10:20 AM
+  type: "KEYNOTE SPEECH"
+  info: "<br>嘉宾<br><b>数字货币的挑战和政策</b><br><br>"
+
+- time: 10:20 AM - 10:40 AM
+  type: "KEYNOTE SPEECH"
+  info: "<br>嘉宾<br><b>DEFI的现状和未来</b><br><br>"
+
+- time: 10:40 AM - 11:00 AM
+  type: "KEYNOTE SPEECH"
+  info: "<br>嘉宾<br><b>从金融科技到 DeFi</b><br><br>"
+
+- time: 11:00 AM - 11:20 AM
+  type: "KEYNOTE SPEECH"
+  info: "<br>嘉宾<br><b>DeFi 的探索实践</b><br><br>"
+
+- time: 11:20 AM - 12:00 PM
+  type: "Panel"
+  info: "<br>嘉宾<br><b>DeFi 论剑</b><br><br>"
+
+- time: 12:00 PM - 14:00 PM
+  type: "午餐"
+  info: "<br>///<br><b>午餐</b><br><br>"

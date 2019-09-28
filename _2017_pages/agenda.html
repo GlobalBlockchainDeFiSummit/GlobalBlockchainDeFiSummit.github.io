@@ -1,7 +1,7 @@
 ---
 layout: 2017_default
 permalink: /agenda
-title: 会议议程
+title: 峰会议程
 published: true
 ---
     <!--background color-->
@@ -19,7 +19,7 @@ published: true
             <thead>
                 <tr>
                     <th class="row-1 agenda-time"><center>时间</center></th>
-                    <th class="row-2 agenda-activity"><center>议程</center></th>  
+                    <th class="row-2 agenda-activity"><center>议程</center></th>
                 </tr>
             </thead>
 
@@ -27,18 +27,20 @@ published: true
                 <tr>
                     <td>{{ agenda.time }}</td>
                     <td>{{ agenda.info }}</td>
-                </tr> 
+                </tr>
             {% endfor %}
         </table>
 
 
-<!--
-        <h2>Day 2</h2>
+
+
+        <h2>主会场议程</h2>
         <table class="agenda">
             <thead>
                 <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                    <th class="row-1 agenda-time"><center>时间</center></th>
+                    <th class="row-2 agenda-type"><center>形式</center></th>
+                    <th class="row-2 agenda-activity"><center>主题</center></th>
                 </tr>
 
             </thead>
@@ -46,9 +48,42 @@ published: true
             {% for agenda in site.data.twenty_17.agendas_2 %}
                 <tr>
                     <td>{{ agenda.time }}</td>
+                    <td><center>{{ agenda.type }}</center></td>
                     <td>{{ agenda.info }}</td>
-                </tr> 
+                </tr>
             {% endfor %}
         </table>
--->    
+
+
+
+        <h2>分论坛议程</h2>
+        <table class="agenda">
+            <thead>
+
+                <tr>
+                    <th class="row-1 agenda-time"><center>时间</center></th>
+                    <th class="row-2 agenda-type" colspan="2"><center>DEFI REVOLUTION 分论坛</center></th>
+                    <th class="row-2 agenda-activity" colspan="2"><center>DIGITAL  ASSET  分论坛</center></th>
+                </tr>
+                <tr>
+                <td class="row-2">///</td>
+                <td class="row-2"><center>形式</center></td>
+                <td class="row-2"><center>主题</center></td>
+                <td class="row-2"><center>形式</center></td>
+                <td class="row-2"><center>主题</center></td>
+
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_3 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td><center>{{ agenda.type1 }}</center></td>
+                    <td>{{ agenda.info1 }}</td>
+                    <td><center>{{ agenda.type2 }}</center></td>
+                    <td>{{ agenda.info2 }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+
 </div>

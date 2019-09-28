@@ -1,0 +1,54 @@
+- time: 14:00-14:40
+  type1: "Panel"
+  info1: "<br>嘉宾<br><b>DEFI研究报告</b><br><br>"
+  type2: "Panel"
+  info2: "<br>嘉宾<br><b>假面PK：零和的模式</b><br><br>"
+
+- time: 14:40-15:00
+  type1: "KEYNOTE SPEECH"
+  info1: "<br>嘉宾<br><b>区块链投资道与术</b><br><br>"
+  type2: "KEYNOTE SPEECH"
+  info2: "<br>嘉宾<br><b>交易所的竞争格局和未来</b><br><br>"
+
+- time: 15:00-15:20
+  type1: "KEYNOTE SPEECH"
+  info1: "<br>嘉宾<br><b>DeFi革命</b><br><br>"
+  type2: "KEYNOTE SPEECH"
+  info2: "<br>嘉宾<br><b>OKex的新战略</b><br><br>"
+
+
+- time: 15:20-16:00
+  type1: "Panel"
+  info1: "<br>嘉宾<br><b>DeFi的政策边界</b><br><br>"
+  type2: "Panel"
+  info2: "<br>嘉宾<br><b>资管和量化</b><br><br>"
+
+- time: 16:00-16:20
+  type1: "KEYNOTE SPEECH"
+  info1: "<br>嘉宾<br><b>数字货币的未来</b><br><br>"
+  type2: "KEYNOTE SPEECH"
+  info2: "<br>嘉宾<br><b>TOEKEN文明</b><br><br>"
+
+- time: 16:20-16:40
+  type1: "KEYNOTE SPEECH"
+  info1: "<br>嘉宾<br><b>传统金融和DeFi</b><br><br>"
+  type2: "KEYNOTE SPEECH"
+  info2: "<br>嘉宾<br><b>梭哈的正道</b><br><br>"
+
+- time: 16:40-17:00
+  type1: "KEYNOTE SPEECH"
+  info1: "<br>嘉宾<br><b>DeFi的法律边界</b><br><br>"
+  type2: "KEYNOTE SPEECH"
+  info2: "<br>嘉宾<br><b>交易所赛道分析</b><br><br>"
+
+- time: 17:00-17:20
+  type1: "KEYNOTE SPEECH"
+  info1: "<br>嘉宾<br><b>DeFi新世界</b><br><br>"
+  type2: "KEYNOTE SPEECH"
+  info2: "<br>嘉宾<br><b>数字资产的飞跃</b><br><br>"
+
+- time: 17:20-18:00
+  type1: "Panel"
+  info1: "<br>嘉宾<br><b>打造DeFi产品</b><br><br>"
+  type2: "Panel"
+  info2: "<br>嘉宾<br><b>去中心化交易所</b><br><br>"

@@ -1,35 +1,25 @@
-- inverted: 
+- inverted:
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: 峰会主题
+  info: 查看峰会详细介绍
   link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: 会议日程
-  info: 查看具体会议日程
+  name: 峰会日程
+  info: 查看具体峰会日程
   link: /agenda
 
-- inverted: 
-  img: icon-team.jpeg
-  name: 团队
-  info: 团队介绍
-  link: /team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: 会场
+  name: 会场介绍
   info: 查看会场详情
   link: /venue
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: 如有更多疑问...
-  link: /faqs
 
 - inverted: timeline-inverted
   img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
+  name: 峰会手册
+  info: 查看或下载峰会手册
   link: /booklet
