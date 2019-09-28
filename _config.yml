@@ -25,10 +25,10 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  title: twitter
+  - title: twitter
     url: https://twitter.com/Yixuan5402
 
-  title: linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/liyixuan5402
 
 
