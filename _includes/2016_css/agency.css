@@ -335,17 +335,23 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 100vh;
+    /* height: 100vh; */
     text-align: center;
     color: #fff;
+    background-color: #464646;
+    /* background-attachment: scroll; */
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    /* background-size: contain; */
+    background-size: 100%;
+
+
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
 }
 
 header .intro-text {
@@ -370,7 +376,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
-@media(min-width:768px) {    
+@media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
